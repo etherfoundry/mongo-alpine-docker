@@ -1,0 +1,3 @@
+These scripts are executed after the final launch of mongod.
+
+See the bottom of docker-entrypoint.sh for more information.

@@ -1,0 +1,3 @@
+These files are launched during an early stage start of mongod. It's meant for initial DB setup and config.
+
+Don't configure replica set here, use post-setup.d for that.

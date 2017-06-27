@@ -1,4 +1,4 @@
-# docker-mongo-alpine
+# mongo-alpine-docker
 This is a MongoDB image that can serve as both primary and secondary nodes in a replica set. It is based heavily on the official Mongo Dockerfile.
 
 The containers must be started with '--replSet' option specified. I am using this within Docker Swarm.
